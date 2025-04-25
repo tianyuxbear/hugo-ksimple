@@ -1,3 +1,10 @@
+> [!note]
+ 本仓库是大佬[captainwc](https://github.com/captainwc)自定义主题[ksimple](https://github.com/captainwc/captainwc.github.io/tree/main/themes/ksimple)的一份拷贝。
+ 鉴于原作者没有对此主题建立仓库，本人搭建博客时需以submodule形式引入主题，故建立此仓库。
+ 本仓库仅用于个人博客的展示，不接受任何PR。
+ 如有侵权，请联系本人删除，邮箱：tianyuxbear@gmail.com
+
+
 # KSimple
 
 [站点样式](https://captainwc.github.io)
